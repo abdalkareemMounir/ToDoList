@@ -39,5 +39,4 @@ while True:
         case sg.WIN_CLOSED:
             break
 
-window.read()
 window.close()
