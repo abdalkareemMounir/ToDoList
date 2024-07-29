@@ -7,3 +7,6 @@ master python
 drinke milk
 drinke tee
 watching movie
+clean the bag.
+sing song
+read book
