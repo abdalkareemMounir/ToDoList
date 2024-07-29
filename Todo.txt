@@ -1,12 +1,4 @@
 learn german
 learning python
-playing games
-fix the door
-fix the bug
 master python
-drinke milk
-drinke tee
-watching movie
-clean the bag.
-sing song
-read book
+develop the app
